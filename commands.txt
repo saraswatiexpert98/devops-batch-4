@@ -11,3 +11,4 @@ git log --oneline
 git log --oneline --pretty
 git branch
 git checkout -b New branch name
+git remote -v
