@@ -1,0 +1,13 @@
+git init
+git add
+git status
+git commit -m " my first commit on github"
+git rm --cached file name 
+git checkout --filename
+git restore filename
+git log
+head
+git log --oneline
+git log --oneline --pretty
+git branch
+git checkout -b New branch name
