@@ -12,3 +12,6 @@ git log --oneline --pretty
 git branch
 git checkout -b New branch name
 git remote -v
+git pull
+git push
+git fetch
